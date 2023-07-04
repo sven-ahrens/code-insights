@@ -1,0 +1,10 @@
+$theme-colors: (
+        "primary": $ci-primary,
+        "dark": $ci-dark,
+        "secondary": $ci-secondary,
+);
+
+$body-bg: $ci-secondary;
+$body-color: #fff;
+
+@import 'node_modules/bootstrap/scss/bootstrap';
